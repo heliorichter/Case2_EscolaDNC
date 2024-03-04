@@ -1,4 +1,4 @@
-# Estudo de caso proposto pela escola DNC.
+# Case2 - Estudo de caso proposto pela escola DNC.
 
 ## Respondendo aos questionamentos
 
